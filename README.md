@@ -1,2 +1,8 @@
-# python-collections-parte-2-conjuntos-e-dicionarios
- Python Collections parte 2: Conjuntos e dicionários
+# Python Collections parte 2: Conjuntos e dicionários
+
+## Aulas
+1. Conjuntos
+2. Operações
+3. Dicionários
+4. Variações de dicionarios
+4. Praticando
